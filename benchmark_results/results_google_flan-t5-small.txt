@@ -1,0 +1,12 @@
+Prompt: Write a short poem about AI.
+Generated: i love a sailor i love a sailor i love a sailor i love a sailor i love a sailor i love a sailor i love a sailor i love a sailor i love a sailor i love a sailor i love a sailor 
+
+Prompt: Explain what blockchain is in simple terms.
+Generated: Bitcoin is a cryptocurrency that is a cryptocurrency that is a commodity.
+
+Prompt: Generate a Python function to reverse a string.
+Generated: sys
+
+Prompt: Describe the benefits of renewable energy.
+Generated: Renewable energy is a renewable resource that can be used to produce electricity.
+

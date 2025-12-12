@@ -1,0 +1,67 @@
+Prompt: Write a short poem about AI.
+Generated: Write a short poem about AI.
+
+I’m a writer, and I’m a writer. I’m a writer. I’m a writer. I’m a writer. I’m a writer. I’m a writer. I’m a writer. I’m a writer. I’m a writer. I’m a writer. I’m a writer. I’m a writer. I’m a writer
+
+Prompt: Explain what blockchain is in simple terms.
+Generated: Explain what blockchain is in simple terms.
+
+The blockchain is a decentralized ledger that is used to store and manage information. It is a decentralized ledger that is used to store and manage information. It is a decentralized ledger that is used to store and manage information. It is a decentralized ledger that is used to store and manage information. It is a decentralized ledger that is used to store and manage information. It is a decentralized ledger that is used to store and manage information. It is a decentralized ledger that is used to store and manage information
+
+Prompt: Generate a Python function to reverse a string.
+Generated: Generate a Python function to reverse a string.
+
+A:
+
+You can use the following code:
+def reverse_string(str):
+    return str.replace(/\s/g, '\n')
+
+print(reverse_string(str))
+
+Output:
+>>> reverse_string(str)
+'hello world'
+
+A:
+
+You can use the following code:
+def reverse_string(str):
+    return str.replace(/\s
+
+Prompt: Describe the benefits of renewable energy.
+Generated: Describe the benefits of renewable energy.
+
+The benefits of renewable energy are:
+
+Reduced energy costs
+
+Reduced energy costs
+
+Reduced energy costs
+
+Reduced energy costs
+
+Reduced energy costs
+
+Reduced energy costs
+
+Reduced energy costs
+
+Reduced energy costs
+
+Reduced energy costs
+
+Reduced energy costs
+
+Reduced energy costs
+
+Reduced energy costs
+
+Reduced energy costs
+
+Reduced energy costs
+
+Reduced energy costs
+
+

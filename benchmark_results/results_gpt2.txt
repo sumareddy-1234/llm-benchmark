@@ -1,0 +1,42 @@
+Prompt: Write a short poem about AI.
+Generated: Write a short poem about AI.
+
+The first thing you'll notice is that the AI is not a robot. It's a human.
+
+The AI is a human.
+
+The AI is a human.
+
+The AI is a human.
+
+The AI is a human.
+
+The AI is a human.
+
+The AI is a human.
+
+The AI is a human.
+
+The AI is a human.
+
+The AI is a human.
+
+The AI is a
+
+Prompt: Explain what blockchain is in simple terms.
+Generated: Explain what blockchain is in simple terms.
+
+The blockchain is a decentralized ledger that is used to store and store information about transactions. It is used to store and store information about transactions. It is used to store and store information about transactions. It is used to store and store information about transactions. It is used to store and store information about transactions. It is used to store and store information about transactions. It is used to store and store information about transactions. It is used to store and store information about transactions. It is used to
+
+Prompt: Generate a Python function to reverse a string.
+Generated: Generate a Python function to reverse a string.
+
+import os import time import time.time import time.time.time.time.time.time.time.time.time.time.time.time.time.time.time.time.time.time.time.time.time.time.time.time.time.time.time.time.time.time.time.time.time.time.time.time.time.time.time.time.time.time.time.time.time
+
+Prompt: Describe the benefits of renewable energy.
+Generated: Describe the benefits of renewable energy.
+
+"The benefits of renewable energy are very clear," said Dr. David S. Dyer, a professor of energy and environmental studies at the University of California, Berkeley. "It's a very simple concept. It's a simple concept. It's a simple concept. It's a simple concept. It's a simple concept. It's a simple concept."
+
+The study, published in the journal Nature Climate Change, found that the amount of carbon dioxide in the atmosphere is increasing at
+

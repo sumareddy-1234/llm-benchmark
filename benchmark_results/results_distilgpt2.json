@@ -1,0 +1,202 @@
+[
+    {
+        "prompt": "Write a short poem about AI.",
+        "generated_text": "Write a short poem about AI.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "latency_sec": 0.8581950664520264,
+        "throughput_tokens_per_sec": 66.41846618351113,
+        "ram_usage_mb": 316.6640625,
+        "gpu_usage_mb": null,
+        "avg_length": 6,
+        "vocab_diversity": 1.0
+    },
+    {
+        "prompt": "Explain what blockchain is in simple terms.",
+        "generated_text": "Explain what blockchain is in simple terms.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "latency_sec": 0.6740329265594482,
+        "throughput_tokens_per_sec": 87.53281579456538,
+        "ram_usage_mb": 0.3984375,
+        "gpu_usage_mb": null,
+        "avg_length": 7,
+        "vocab_diversity": 1.0
+    },
+    {
+        "prompt": "Generate a Python function to reverse a string.",
+        "generated_text": "Generate a Python function to reverse a string.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "latency_sec": 0.6756443977355957,
+        "throughput_tokens_per_sec": 88.80411086229444,
+        "ram_usage_mb": 0.05078125,
+        "gpu_usage_mb": null,
+        "avg_length": 8,
+        "vocab_diversity": 0.875
+    },
+    {
+        "prompt": "Describe the benefits of renewable energy.",
+        "generated_text": "Describe the benefits of renewable energy.\u201d\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "latency_sec": 0.7156341075897217,
+        "throughput_tokens_per_sec": 81.0470034684985,
+        "ram_usage_mb": 0.0390625,
+        "gpu_usage_mb": null,
+        "avg_length": 6,
+        "vocab_diversity": 1.0
+    },
+    {
+        "prompt": "Summarize the plot of Romeo and Juliet.",
+        "generated_text": "Summarize the plot of Romeo and Juliet.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "latency_sec": 0.7491941452026367,
+        "throughput_tokens_per_sec": 80.08605030378558,
+        "ram_usage_mb": 0.1171875,
+        "gpu_usage_mb": null,
+        "avg_length": 7,
+        "vocab_diversity": 1.0
+    },
+    {
+        "prompt": "Create a short story involving a robot and a human.",
+        "generated_text": "Create a short story involving a robot and a human.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "latency_sec": 0.7458081245422363,
+        "throughput_tokens_per_sec": 81.79047397404085,
+        "ram_usage_mb": 0.0234375,
+        "gpu_usage_mb": null,
+        "avg_length": 10,
+        "vocab_diversity": 0.8
+    },
+    {
+        "prompt": "Explain quantum computing in simple words.",
+        "generated_text": "Explain quantum computing in simple words.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "latency_sec": 0.7063033580780029,
+        "throughput_tokens_per_sec": 82.11768971031083,
+        "ram_usage_mb": 0.01953125,
+        "gpu_usage_mb": null,
+        "avg_length": 6,
+        "vocab_diversity": 1.0
+    },
+    {
+        "prompt": "Give three tips for improving productivity.",
+        "generated_text": "Give three tips for improving productivity.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "latency_sec": 0.7387292385101318,
+        "throughput_tokens_per_sec": 77.15952886196507,
+        "ram_usage_mb": 0.0390625,
+        "gpu_usage_mb": null,
+        "avg_length": 6,
+        "vocab_diversity": 1.0
+    },
+    {
+        "prompt": "Translate \"Hello, how are you?\" into French.",
+        "generated_text": "Translate \"Hello, how are you?\" into French.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "latency_sec": 0.6983320713043213,
+        "throughput_tokens_per_sec": 88.78297667784106,
+        "ram_usage_mb": 0.01953125,
+        "gpu_usage_mb": null,
+        "avg_length": 7,
+        "vocab_diversity": 1.0
+    },
+    {
+        "prompt": "Write a haiku about autumn.",
+        "generated_text": "Write a haiku about autumn.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "latency_sec": 0.7004046440124512,
+        "throughput_tokens_per_sec": 81.38152778865171,
+        "ram_usage_mb": 0.03515625,
+        "gpu_usage_mb": null,
+        "avg_length": 5,
+        "vocab_diversity": 1.0
+    },
+    {
+        "prompt": "List the main differences between Python and Java.",
+        "generated_text": "List the main differences between Python and Java.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "latency_sec": 0.7283823490142822,
+        "throughput_tokens_per_sec": 81.00141372157704,
+        "ram_usage_mb": 0.0859375,
+        "gpu_usage_mb": null,
+        "avg_length": 8,
+        "vocab_diversity": 1.0
+    },
+    {
+        "prompt": "Explain the concept of machine learning.",
+        "generated_text": "Explain the concept of machine learning.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "latency_sec": 0.6962189674377441,
+        "throughput_tokens_per_sec": 83.30712421331204,
+        "ram_usage_mb": 0.015625,
+        "gpu_usage_mb": null,
+        "avg_length": 6,
+        "vocab_diversity": 1.0
+    },
+    {
+        "prompt": "Generate a random joke.",
+        "generated_text": "Generate a random joke.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "latency_sec": 0.6758389472961426,
+        "throughput_tokens_per_sec": 82.8599775494466,
+        "ram_usage_mb": -0.0078125,
+        "gpu_usage_mb": null,
+        "avg_length": 4,
+        "vocab_diversity": 1.0
+    },
+    {
+        "prompt": "Write a motivational quote about perseverance.",
+        "generated_text": "Write a motivational quote about perseverance.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "latency_sec": 0.6968164443969727,
+        "throughput_tokens_per_sec": 83.23569351207462,
+        "ram_usage_mb": 0.015625,
+        "gpu_usage_mb": null,
+        "avg_length": 6,
+        "vocab_diversity": 1.0
+    },
+    {
+        "prompt": "Describe the process of photosynthesis.",
+        "generated_text": "Describe the process of photosynthesis.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "latency_sec": 0.6939182281494141,
+        "throughput_tokens_per_sec": 83.58333539483196,
+        "ram_usage_mb": 0.01171875,
+        "gpu_usage_mb": null,
+        "avg_length": 5,
+        "vocab_diversity": 1.0
+    },
+    {
+        "prompt": "Give a brief history of the internet.",
+        "generated_text": "Give a brief history of the internet.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "latency_sec": 0.6878702640533447,
+        "throughput_tokens_per_sec": 84.31822544302055,
+        "ram_usage_mb": 0.01171875,
+        "gpu_usage_mb": null,
+        "avg_length": 7,
+        "vocab_diversity": 1.0
+    },
+    {
+        "prompt": "Explain what NFTs are.",
+        "generated_text": "Explain what NFTs are.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "latency_sec": 0.690540075302124,
+        "throughput_tokens_per_sec": 83.99222879950005,
+        "ram_usage_mb": 0.01171875,
+        "gpu_usage_mb": null,
+        "avg_length": 4,
+        "vocab_diversity": 1.0
+    },
+    {
+        "prompt": "Write a riddle about numbers.",
+        "generated_text": "Write a riddle about numbers.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "latency_sec": 0.6820731163024902,
+        "throughput_tokens_per_sec": 83.56875331635453,
+        "ram_usage_mb": 0.01171875,
+        "gpu_usage_mb": null,
+        "avg_length": 5,
+        "vocab_diversity": 1.0
+    },
+    {
+        "prompt": "Generate a sample SQL query to select all users from a database.",
+        "generated_text": "Generate a sample SQL query to select all users from a database.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "latency_sec": 0.681908369064331,
+        "throughput_tokens_per_sec": 93.8542521304094,
+        "ram_usage_mb": 0.0234375,
+        "gpu_usage_mb": null,
+        "avg_length": 12,
+        "vocab_diversity": 0.9166666666666666
+    },
+    {
+        "prompt": "Summarize the benefits of meditation.",
+        "generated_text": "Summarize the benefits of meditation.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "latency_sec": 0.6936202049255371,
+        "throughput_tokens_per_sec": 83.61924809590363,
+        "ram_usage_mb": 0.01171875,
+        "gpu_usage_mb": null,
+        "avg_length": 5,
+        "vocab_diversity": 1.0
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "prompt": "Write a short poem about AI.",
+        "generated_text": "Write a short poem about AI.\nI'm not sure if I should write a poem about AI or not.\nI'm not sure if you should write a poem about AI or not.\nI'm not sure if you should write a poem about AI or not.\nI",
+        "latency_sec": 1.0799286365509033,
+        "throughput_tokens_per_sec": 53.70725253220574,
+        "ram_usage_mb": -0.23828125,
+        "gpu_usage_mb": null,
+        "avg_length": 46,
+        "vocab_diversity": 0.3695652173913043
+    },
+    {
+        "prompt": "Explain what blockchain is in simple terms.",
+        "generated_text": "Explain what blockchain is in simple terms.\n\nBlockchain is a decentralized network of computers that are connected to each other by a network of computers. The network is called a blockchain.\n\nThe blockchain is a decentralized network of computers that are connected to each other by a network of computers",
+        "latency_sec": 0.9775338172912598,
+        "throughput_tokens_per_sec": 61.37895072137722,
+        "ram_usage_mb": 2.11328125,
+        "gpu_usage_mb": null,
+        "avg_length": 50,
+        "vocab_diversity": 0.48
+    },
+    {
+        "prompt": "Generate a Python function to reverse a string.",
+        "generated_text": "Generate a Python function to reverse a string.\n\nGenerate a Python function to reverse a string.\n\nGenerate a Python function to reverse a string.\n\nGenerate a Python function to reverse a string.\n\nGenerate a Python function to reverse a string.\n\n",
+        "latency_sec": 1.0142784118652344,
+        "throughput_tokens_per_sec": 60.14127806173299,
+        "ram_usage_mb": 0.43359375,
+        "gpu_usage_mb": null,
+        "avg_length": 40,
+        "vocab_diversity": 0.175
+    },
+    {
+        "prompt": "Describe the benefits of renewable energy.",
+        "generated_text": "Describe the benefits of renewable energy.\n\nThe benefits of renewable energy are many. The first is that it is a renewable energy source. The second is that it is a renewable energy source. The third is that it is a renewable energy source. The fourth is that it is a",
+        "latency_sec": 1.0234811305999756,
+        "throughput_tokens_per_sec": 57.64639741371057,
+        "ram_usage_mb": -0.30078125,
+        "gpu_usage_mb": null,
+        "avg_length": 50,
+        "vocab_diversity": 0.38
+    },
+    {
+        "prompt": "Summarize the plot of Romeo and Juliet.",
+        "generated_text": "Summarize the plot of Romeo and Juliet.\nI'm not sure if you're being sarcastic or not, but I think you're right.\nI'm not sure if you're being sarcastic or not, but I think you're right.  I'm not sure if you're being sarcastic",
+        "latency_sec": 1.0404257774353027,
+        "throughput_tokens_per_sec": 58.629843015200755,
+        "ram_usage_mb": 0.76953125,
+        "gpu_usage_mb": null,
+        "avg_length": 42,
+        "vocab_diversity": 0.47619047619047616
+    },
+    {
+        "prompt": "Create a short story involving a robot and a human.",
+        "generated_text": "Create a short story involving a robot and a human.\n\nCreate a short story involving a robot and a human.\n\nCreate a short story involving a robot and a human.\n\nCreate a short story involving a robot and a human.\n\nCreate a short story involving a robot and a",
+        "latency_sec": 1.0165462493896484,
+        "throughput_tokens_per_sec": 60.99083050793395,
+        "ram_usage_mb": 0.73046875,
+        "gpu_usage_mb": null,
+        "avg_length": 49,
+        "vocab_diversity": 0.16326530612244897
+    },
+    {
+        "prompt": "Explain quantum computing in simple words.",
+        "generated_text": "Explain quantum computing in simple words.\nI'm not sure what you mean by that.\nI'm not sure what you mean by that.\nI'm not sure what you mean by that.\nI'm not sure what you mean by that.\nI'm not sure what",
+        "latency_sec": 1.0018889904022217,
+        "throughput_tokens_per_sec": 58.888759698131494,
+        "ram_usage_mb": 0.0390625,
+        "gpu_usage_mb": null,
+        "avg_length": 42,
+        "vocab_diversity": 0.3333333333333333
+    },
+    {
+        "prompt": "Give three tips for improving productivity.",
+        "generated_text": "Give three tips for improving productivity.\n\n1. Get a good sense of what you\u2019re doing.\n\nIf you\u2019re doing something that\u2019s not productive, you\u2019re not doing it right.\n\nIf you\u2019re doing something",
+        "latency_sec": 1.0260651111602783,
+        "throughput_tokens_per_sec": 56.52662717906214,
+        "ram_usage_mb": 0.09765625,
+        "gpu_usage_mb": null,
+        "avg_length": 31,
+        "vocab_diversity": 0.7419354838709677
+    },
+    {
+        "prompt": "Translate \"Hello, how are you?\" into French.",
+        "generated_text": "Translate \"Hello, how are you?\" into French.\nI'm French, but I'm not sure if I'm fluent.\nI'm French, but I'm not sure if I'm fluent.\nI'm French, but I'm not sure if I'm fluent.\nI'm French,",
+        "latency_sec": 1.0465538501739502,
+        "throughput_tokens_per_sec": 60.19757128553741,
+        "ram_usage_mb": 0.0078125,
+        "gpu_usage_mb": null,
+        "avg_length": 36,
+        "vocab_diversity": 0.3888888888888889
+    },
+    {
+        "prompt": "Write a haiku about autumn.",
+        "generated_text": "Write a haiku about autumn.\nI'm not sure if I should write a haiku about autumn.\nI'm not sure if I should write a haiku about autumn.\nI'm not sure if I should write a haiku about autumn.\nI'm not sure",
+        "latency_sec": 1.0286009311676025,
+        "throughput_tokens_per_sec": 56.38727152829045,
+        "ram_usage_mb": 0.203125,
+        "gpu_usage_mb": null,
+        "avg_length": 41,
+        "vocab_diversity": 0.2926829268292683
+    },
+    {
+        "prompt": "List the main differences between Python and Java.",
+        "generated_text": "List the main differences between Python and Java.\n\nPython is a programming language that is used to create and manage a variety of applications. It is also used to create and manage a variety of other applications.\n\nPython is a programming language that is used to create and manage a variety of",
+        "latency_sec": 1.0311787128448486,
+        "throughput_tokens_per_sec": 58.18584039081848,
+        "ram_usage_mb": 0.09375,
+        "gpu_usage_mb": null,
+        "avg_length": 52,
+        "vocab_diversity": 0.4423076923076923
+    },
+    {
+        "prompt": "Explain the concept of machine learning.",
+        "generated_text": "Explain the concept of machine learning.\nI'm not sure what you mean by machine learning.\nI'm not sure what you mean by machine learning.\nI'm not sure what you mean by machine learning.\nI'm not sure what you mean by machine learning.\nI",
+        "latency_sec": 1.0394649505615234,
+        "throughput_tokens_per_sec": 56.75997056767325,
+        "ram_usage_mb": 1.0859375,
+        "gpu_usage_mb": null,
+        "avg_length": 43,
+        "vocab_diversity": 0.32558139534883723
+    },
+    {
+        "prompt": "Generate a random joke.",
+        "generated_text": "Generate a random joke.\nI'm not sure if you're being sarcastic or not, but I'm pretty sure you're being sarcastic.\nI'm not sure if you're being sarcastic or not, but I'm pretty sure you're being sarcastic.  I'm not",
+        "latency_sec": 1.0130641460418701,
+        "throughput_tokens_per_sec": 56.264946521603754,
+        "ram_usage_mb": 1.56640625,
+        "gpu_usage_mb": null,
+        "avg_length": 38,
+        "vocab_diversity": 0.42105263157894735
+    },
+    {
+        "prompt": "Write a motivational quote about perseverance.",
+        "generated_text": "Write a motivational quote about perseverance.\n\nI\u2019m not sure if I\u2019ve ever been a motivational speaker, but I\u2019ve been a motivational speaker for a long time. I\u2019ve been a motivational speaker for a long time, and I\u2019",
+        "latency_sec": 1.0418391227722168,
+        "throughput_tokens_per_sec": 56.63062435494612,
+        "ram_usage_mb": -1.96484375,
+        "gpu_usage_mb": null,
+        "avg_length": 37,
+        "vocab_diversity": 0.5945945945945946
+    },
+    {
+        "prompt": "Describe the process of photosynthesis.",
+        "generated_text": "Describe the process of photosynthesis.\n\nThe process of photosynthesis is the process of converting oxygen into carbon dioxide. The process of photosynthesis is the process of converting oxygen into carbon dioxide. The process of photosynthesis is the process of converting oxygen into carbon dioxide. The process of",
+        "latency_sec": 1.055206537246704,
+        "throughput_tokens_per_sec": 55.91322448962992,
+        "ram_usage_mb": -2.484375,
+        "gpu_usage_mb": null,
+        "avg_length": 47,
+        "vocab_diversity": 0.2765957446808511
+    },
+    {
+        "prompt": "Give a brief history of the internet.",
+        "generated_text": "Give a brief history of the internet.\n\nThe internet is a place where people can share information, discuss ideas, and share their opinions. It is a place where people can share ideas, discuss ideas, and share their opinions. It is a place where people can share ideas, discuss",
+        "latency_sec": 1.0281870365142822,
+        "throughput_tokens_per_sec": 57.38255580426242,
+        "ram_usage_mb": 1.59375,
+        "gpu_usage_mb": null,
+        "avg_length": 48,
+        "vocab_diversity": 0.4583333333333333
+    },
+    {
+        "prompt": "Explain what NFTs are.",
+        "generated_text": "Explain what NFTs are.\nNFTs are digital assets that are used to create a digital currency. They are used to create a digital currency that is used to pay for goods and services.\nSo what is a NFT?\nA digital asset that is used to",
+        "latency_sec": 1.010575294494629,
+        "throughput_tokens_per_sec": 58.38258694964918,
+        "ram_usage_mb": -0.015625,
+        "gpu_usage_mb": null,
+        "avg_length": 45,
+        "vocab_diversity": 0.5555555555555556
+    },
+    {
+        "prompt": "Write a riddle about numbers.",
+        "generated_text": "Write a riddle about numbers.\nI'm not sure if I can do that. I'm not sure if I can do that. I'm not sure if I can do that. I'm not sure if I can do that. I'm not sure if I can do that",
+        "latency_sec": 1.046335220336914,
+        "throughput_tokens_per_sec": 55.431566167986134,
+        "ram_usage_mb": 0.41796875,
+        "gpu_usage_mb": null,
+        "avg_length": 45,
+        "vocab_diversity": 0.3111111111111111
+    },
+    {
+        "prompt": "Generate a sample SQL query to select all users from a database.",
+        "generated_text": "Generate a sample SQL query to select all users from a database.\n\nGenerate a sample SQL query to select all users from a database.\n\nGenerate a sample SQL query to select all users from a database.\n\nGenerate a sample SQL query to select all users from a database.\n\n",
+        "latency_sec": 1.0275733470916748,
+        "throughput_tokens_per_sec": 63.25582517682899,
+        "ram_usage_mb": 6.1796875,
+        "gpu_usage_mb": null,
+        "avg_length": 48,
+        "vocab_diversity": 0.22916666666666666
+    },
+    {
+        "prompt": "Summarize the benefits of meditation.",
+        "generated_text": "Summarize the benefits of meditation.\n\nThe benefits of meditation are many.\n\nThe benefits of meditation are many.\n\nThe benefits of meditation are many.\n\nThe benefits of meditation are many.\n\nThe benefits of meditation are many.\n\nThe benefits of",
+        "latency_sec": 1.0422163009643555,
+        "throughput_tokens_per_sec": 56.61012972586181,
+        "ram_usage_mb": 0.171875,
+        "gpu_usage_mb": null,
+        "avg_length": 38,
+        "vocab_diversity": 0.23684210526315788
+    }
+]
