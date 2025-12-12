@@ -1,0 +1,11 @@
+models:
+  - distilgpt2
+  - facebook/opt-125m
+  - EleutherAI/gpt-neo-125M
+  - google/flan-t5-small
+
+prompts_path: datasets/prompts.txt
+output_dir: benchmark_results
+generation_params:
+  max_new_tokens: 50
+device: "cpu"
