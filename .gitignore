@@ -1,0 +1,11 @@
+# Ignore Python virtual environment
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore datasets (optional, if large)
+datasets/
+*.zip
+*.tar.gz
