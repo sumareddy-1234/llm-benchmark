@@ -1,0 +1,20 @@
+Write a short poem about AI.
+Explain what blockchain is in simple terms.
+Generate a Python function to reverse a string.
+Describe the benefits of renewable energy.
+Summarize the plot of Romeo and Juliet.
+Create a short story involving a robot and a human.
+Explain quantum computing in simple words.
+Give three tips for improving productivity.
+Translate "Hello, how are you?" into French.
+Write a haiku about autumn.
+List the main differences between Python and Java.
+Explain the concept of machine learning.
+Generate a random joke.
+Write a motivational quote about perseverance.
+Describe the process of photosynthesis.
+Give a brief history of the internet.
+Explain what NFTs are.
+Write a riddle about numbers.
+Generate a sample SQL query to select all users from a database.
+Summarize the benefits of meditation.
