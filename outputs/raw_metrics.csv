@@ -1,0 +1,10 @@
+model_name,prompt_index,prompt,latency_sec,tokens_generated,tokens_per_sec,peak_ram_mb,output_length_chars
+sshleifer/tiny-gpt2,0,"""explain the concepts of overfitting in machine learning""",0.4506437000236474,64,142.01907182246555,3.52734375,448
+distilgpt2,0,"""explain the concepts of overfitting in machine learning""",3.0319231000030413,64,21.108714795548675,312.234375,64
+gpt2,0,"""explain the concepts of overfitting in machine learning""",5.910511400026735,64,10.828166239508565,456.7734375,310
+sshleifer/tiny-gpt2,1,"""describe the difference between cpu and gpu""",0.22665940003935248,64,282.36199332076393,0.5703125,448
+distilgpt2,1,"""describe the difference between cpu and gpu""",2.3069424999994226,64,27.742347284345414,-2.0390625,64
+gpt2,1,"""describe the difference between cpu and gpu""",3.704487400013022,64,17.276344360025366,2.921875,268
+sshleifer/tiny-gpt2,2,"""write a short note on climatic changes now a days""",0.27239100000588223,64,234.95636786317436,-4.40234375,448
+distilgpt2,2,"""write a short note on climatic changes now a days""",2.0815125000081025,64,30.746872766678496,1.49609375,64
+gpt2,2,"""write a short note on climatic changes now a days""",3.4605432999669574,64,18.49420580884253,2.5078125,250

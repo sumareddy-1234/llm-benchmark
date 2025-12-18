@@ -1,0 +1,12 @@
+{
+  "dataset_path": "data/prompts.csv",
+  "models": [
+    "sshleifer/tiny-gpt2",
+    "distilgpt2",
+    "gpt2"
+  ],
+  "device": "cpu",
+  "max_new_tokens": 64,
+  "batch_size": 1,
+  "max_prompts": 20
+}
