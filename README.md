@@ -125,5 +125,5 @@ This project can be used for:
 * Educational demonstrations of LLM benchmarking concepts
 * Research and experimentation with inference optimization
 ---
-## Authour
+## Author
 Satti Suma
